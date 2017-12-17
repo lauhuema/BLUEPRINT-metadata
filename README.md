@@ -32,4 +32,4 @@ There is no link of **inflammatory macrophage** to an organ in Cell Ontology. Ho
 [3]: https://www.ebi.ac.uk/spot/zooma/
 [4]: https://www.ebi.ac.uk/about/spot-team
 [5]: https://www.ebi.ac.uk/
-[6]: http://obofoundry.org/ontology/cl.html
+[6]: http://purl.obolibrary.org/obo/cl.owl

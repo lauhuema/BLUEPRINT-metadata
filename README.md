@@ -20,7 +20,7 @@ Let's explain as an example the process followed to map **inflammatory macrophag
 |UBERON_0002405|immune system|CL_0000863|inflammatory macrophage|
 |UBERON_0002390|hematopoietic system|CL_0000863|inflammatory macrophage|
 
-There is no link of **inflammatory macrophage** to an organ in Cell Ontology but we can manually associate that cell type to the following organs:
+There is no link of **inflammatory macrophage** to an organ in Cell Ontology. However, we can manually associate that cell type to the following organs in the `blueprint_to_organs.txt` file:
 
 |organ id|organ name|cell id|cell name|
 |-|-|-|-|
